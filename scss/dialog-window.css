@@ -1,0 +1,12 @@
+.dialog-window {
+  display: flex;
+  flex-direction: column;
+  width: 870px;
+  margin-left: 333px;
+}
+.dialog-window .dialog-window__header {
+  display: flex;
+  position: fixed;
+}
+
+/*# sourceMappingURL=dialog-window.css.map */
